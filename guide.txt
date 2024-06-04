@@ -1,0 +1,59 @@
+The Main Menu
+
+The main menu to the program has 4 options: 'Register a new account', 'Login with an existing account', 'Guide on how to use this program' and 'Exit the program'.
+
+Pressing 'Register a new account' opens up the registration menu allowing you to create an account. An account is needed to access to main features of this program.
+
+Pressing 'Login with an exisiting account' opens the login menu allowing you to login to an account using existing details.
+
+Pressing 'Guide on how to use this program' opens this text file giving information on the features of this program.
+
+Pressing 'Exit the program' will completely shut down the program.
+
+The Registration Menu
+
+The registration menu allows you to input both a username and a password. These will be used to access the program. You can also input an admin code if one has been provided to you. This determines if you have access to extra features of the program.
+
+The Login Menu
+
+The login menu allows you to input both a username and a password. If exisiting login details have been entered, a secondary menu will open containing the features of the program.
+
+The Secondary Menu
+
+The secondary menu has 4 options: 'Complete a test', 'Recieve feedback', 'Create a test' and 'Give feedback'. (The last two options are only accessible using an admin account)
+
+Pressing 'Complete a test' starts the complete a test process, allowing a user to test their knowledge using a test.
+
+Pressing 'Recieve feedback' displays all your relevant feedback allowing a user to understand how to improve.
+
+Pressing 'Create a test' starts the create a test process, allowing a user to create a test and add questions and answers to it.
+
+Pressing 'Give feedback' starts the give feedback process, allowing a user to select a user or whole class to give feedback on based on a test's reults.
+
+Completing a test
+
+First, a window will open where you will need to enter a valid test name. The test file must be in the same directory as the program. 
+
+Once a valid test name has been entered, a window containing a question along with an empty answer box will appear. You may enter the answer into the answer input box and press submit when ready. When you finish a test, a window containing your results will open. You can use this to assess how well you did on the test, and you can also attempt the test again by pressing the 'Try again button'.
+
+Receiving feedback
+
+A window will appear containing all relevant feedback for you. The feedback given is only for tests that you have attempted. The feedback may be directed specifically to you or to all students who have attempted the test. You can use this feedback to understand how you can improve
+
+Creating a test
+
+First, a window will open where you need to enter a valid test name. 
+
+Once a valid test name has been entered, a window will open allowing you to create the test. There is a question box and an answers box where you can enter your question and all correct answers. You can enter multiple answers by seperating each answer with a comma. When you would like to save the current question and correct answers you can press the 'Submit' button. You can press the 'Preview' button to open a window that shows what the test currently looks like. If you would like to remove the last submitted question and answers, you can press the 'Delete last' button to remove the entries from the test. Once you have finished entering all answers you can press the 'Finish' button to move on to the next process. 
+
+Next, a window with several input boxes will open. You need to input numbers for each grade boundary. If you would like to view how many marks the test is out of, you can press the "Check total marks button". When all input boxes have been filled, you can press the 'Submit' button to save the test. The test is now Ready to be completed.
+
+Giving feedback
+
+First, a window with two buttons will appear. To give individual feedback, you must press the 'Give feedback to a specific student' button. To give feedback to all students who have completed a test, you must press the 'Give feedback on a whole test'.
+
+If the 'Give feedback to a specific student' button is pressed, a new window will open. In this window you must enter the name of a test and the name a student who has completed the test. You can press either the 'Print all test names' button or the 'Print all usernames' button to view a list of all registered tests and users. Once both input boxes have been filled you can press the 'Submit' button to move on to entering feedback.
+
+If the 'Give feedback on a whole test' button is pressed, a new window will open. In this window you must enter the name of a test. You can press the 'Print all test names' button to view a list of all registered tests. Once the input box has been filled you can press the 'Submit' button to move on to entering feedback.
+
+Next, a new window to enter the feedback will open. You can enter your feedback into the input box. You can press 'Submit' once the feedback has been entered to save the feedback
